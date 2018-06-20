@@ -1,0 +1,5 @@
+/.vs
+/src/Protocol.Xs.Demo/bin
+/src/Protocol.Xs.Demo/obj
+/src/Protocol.Xs/bin
+/src/Protocol.Xs/obj

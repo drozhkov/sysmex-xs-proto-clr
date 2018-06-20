@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Copyright>Copyright © 2018 Denis Rozhkov</Copyright>
+    <Authors />
+    <Company />
+  </PropertyGroup>
+
+</Project>
